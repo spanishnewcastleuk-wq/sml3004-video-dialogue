@@ -1,22 +1,6 @@
-# SML3004 Video Dialogue
-Interactive SML3004 Year Abroad video dialogue activity.
-
-## What it does
-
-- Asks one spoken question at a time.
-- Records the student using camera and microphone.
-- Allows the student to repeat the current question.
-- Shows progress as a compact marker such as `1/18`.
-- Lets the student preview and download the finished video.
-
-## GitHub Pages
-
-After uploading this folder to a GitHub repository:
-
-1. Go to the repository settings.
-2. Open **Pages**.
-3. Choose deployment from the `main` branch.
-4. Select the root folder.
-5. Save.
-
-The activity will open from the GitHub Pages URL once Pages finishes deploying.
+<iframe
+  src="https://jamieandmarieb-oss.github.io/SpanishNewcastleUK/sml3004-video-dialogue/"
+  title="SML3004 Video Dialogue"
+  allow="camera; microphone; autoplay"
+  style="width:100%; max-width:1020px; height:980px; border:0;"
+></iframe>
